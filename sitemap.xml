@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://eastentranceapparel.com/</loc>
+  <lastmod>2018-02-11T00:09:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://eastentranceapparel.com/index.html</loc>
+  <lastmod>2018-02-11T00:09:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eastentranceapparel.com/ee-shop.html</loc>
+  <lastmod>2018-02-11T00:03:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eastentranceapparel.com/ee-about.html</loc>
+  <lastmod>2018-02-11T00:01:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eastentranceapparel.com/ee-inquiries.html</loc>
+  <lastmod>2018-02-11T00:01:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eastentranceapparel.com/404.shtml</loc>
+  <lastmod>2018-02-11T00:01:40+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+
+
+</urlset>

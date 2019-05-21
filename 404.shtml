@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Page not found</title>
+  <link href="./ee.css" type="text/css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+ 
+</head>
+<body>
+
+<div class="error">
+  <h2>Whoops, that page doesn't exist.</h2>
+  <h1>You may have been looking for this:</h1>
+  <a id="error_link" href="./index.html">EastEntranceApparel.com</a>
+</div>
+
+</body>
+</html>
+<!-- 
+                                                                                                                                                                    
+--> 
