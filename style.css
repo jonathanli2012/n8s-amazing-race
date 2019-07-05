@@ -1,0 +1,98 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  font-family: "Oxygen", sans-serif;
+  height: 100%;
+}
+
+body {
+  position: relative;
+}
+
+.outerBox {
+  position: absolute;
+  /*background: orange;*/
+  height: 75%;
+  width: 90%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.formBox {
+  position: absolute;
+  height: 50%;
+  width: 65%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -100%);
+  /*background: green;*/
+}
+
+.outputBox {
+  position: absolute;
+  /*background: red;*/
+  height: 50%;
+  width: 65%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%);
+}
+
+.codeForm {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 65%;
+}
+
+.codeForm input {
+  margin: 0 0 5px 0;
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid rgb(41, 41, 41);
+  height: 30px;
+  font: 24px "Arial", sans-serif;
+  color: rgb(41, 41, 41);
+}
+
+.codeForm input:focus {
+  border-width: 3px;
+}
+
+.helpText {
+  color: rgb(148, 148, 148);
+  font-size: 17px;
+}
+
+.btnCheck {
+  float: right;
+  border: none;
+  background: rgb(41, 41, 41);
+  height: 32px;
+  width: 70px;
+  font: 16px "Arial", sans-serif;
+  color: white;
+}
+
+.btnCheck:hover {
+  background: rgb(92, 92, 92);
+}
+
+.btnCheck:active {
+  background: rgb(148, 148, 148);
+}
+
+.outputBody, .outputHead {
+  color: rgb(41, 41, 41);
+}
+
+.outputBody {
+  font: 16px "Arial", sans-serif;
+}
+
+.outputHead {
+  font: bold 30px "Arial", sans-serif;
+}
