@@ -95,7 +95,7 @@ $($(".btnCheck").click(function() {
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue #1:");
     $(".outputBody").text("Here's some text that shows up. It's pretty great text. It goes all the way across the screen and can even have multiple lines. This is pretty great place to put a clue.");
-    currentclue = "test clue"
+    currentclue = "test clue";
     update_vars(currentclue);
     showform();
     
@@ -104,16 +104,17 @@ $($(".btnCheck").click(function() {
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
     $(".outputBody").text("Snapchat Lily (she's in the group chat) and let her know you're coming to our house. Only then will she let you in when you arrive.");
-    currentclue = "clue 1"
+    currentclue = "clue 1";
     update_vars(currentclue);    
     showform();
+
 
   } else if($input == "e271828"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
     $(".outputBody").text("Remember Stop Sign Search? The perimeter is a bit different. Hart/Pine/Kirk/Butterfield. Have at it!");
-    currentclue = "clue 2"
+    currentclue = "clue 2";
     update_vars(currentclue);     
     showform();
 
@@ -122,7 +123,7 @@ $($(".btnCheck").click(function() {
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
     $(".outputBody").text("Behind the names of the buildings awaits your material... and although it's always 5-11 year olds, age is the most important factor.");
-    currentclue = "clue 3"
+    currentclue = "clue 3";
     update_vars(currentclue);     
     showform();
 
@@ -131,7 +132,7 @@ $($(".btnCheck").click(function() {
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
     $(".outputBody").text("Synonyms: Stake Connection Middle");
-    currentclue = "clue 4"
+    currentclue = "clue 4";
     update_vars(currentclue);    
     showform();
 
@@ -140,7 +141,7 @@ $($(".btnCheck").click(function() {
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
     $(".outputBody").text("Keep your cool, or else you'll get NUTTY at this park. A face-off awaits you there, but not before Pit Stop #1! Get to the next location first to win $10!");
-    currentclue = "clue 5"
+    currentclue = "clue 5";
     update_vars(currentclue);   
     showform();
 
@@ -149,7 +150,7 @@ $($(".btnCheck").click(function() {
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
     $(".outputBody").text("The final stretch! I'm located somewhere within the bounds of the Stop Sign Search area! Good luck!");
-    currentclue = "clue 6"
+    currentclue = "clue 6";
     update_vars(currentclue );     
     showform();
 
