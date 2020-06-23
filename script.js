@@ -99,31 +99,31 @@ $($(".btnCheck").click(function() {
     update_vars(currentclue);
     showform();
    
-  } else if($input == "PYGCPOIW"){
+  } else if($input == "LXQAM"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
-    $(".outputBody").text("Your next clue is hiding somewhere in the Walmart nearest to here.");
+    $(".outputBody").text("Nathan: 6-1, 7-1, 8-1.   Rachel: 6-5, 7-3, 8-1");
     currentclue = "clue 1";
     update_vars(currentclue);    
     showform();
 
 
-  } else if($input == "LookItsSanta"){
+  } else if($input == "Woodstock"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
-    $(".outputBody").text("Go to the playground of the nearest elementary school.");
+    $(".outputBody").text("Go to Nathan's house. Pit stop ahead!");
     currentclue = "clue 2";
     update_vars(currentclue);    
     showform();
 
-  } else if($input == "diehard"){
+  } else if($input == "woodstock"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
-    $(".outputBody").text("As usual, meet in the BHS parking lot at 10:45. Make sure you bring a pencil/pen so I don't have to provide them for certain tasks, and also your wallets. My venmo is Nathan-Wright-113; you must send me $10 by 10am tomorrow in order to participate. If both of your teammates are wearing santa hats, you will get your first clue one minute before the other teams. See you tomorrow!");
-    currentclue = "clue 3";
+    $(".outputBody").text("Go to Nathan's house. Pit stop ahead!");
+    currentclue = "clue 2";
     update_vars(currentclue);    
     showform();
 
@@ -132,7 +132,7 @@ $($(".btnCheck").click(function() {
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
     $(".outputBody").text("Come back to Nathan's House!");
-    currentclue = "clue 4";
+    currentclue = "clue 3";
     update_vars(currentclue);    
     showform();
 
@@ -141,7 +141,7 @@ $($(".btnCheck").click(function() {
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
     $(".outputBody").text("12 Days of Christmas: Find exactly 12 of one item (example: 12 cupcakes), take a picture of it, and send it to me with the number and what it is. Then do the same for 11. Go all the way down to 1 for your next clue.");
-    currentclue = "clue 5";
+    currentclue = "clue 4";
     update_vars(currentclue);  
     showform();
 
@@ -150,8 +150,8 @@ $($(".btnCheck").click(function() {
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
     $(".outputBody").text("The final stretch! I'm located somewhere within the bounds of the Stop Sign Search area! Good luck!");
-    currentclue = "clue 6";
-    update_vars(currentclue );    
+    currentclue = "clue 5";
+    update_vars(currentclue);    
     showform();
 
   } else {
