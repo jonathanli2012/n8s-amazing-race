@@ -99,57 +99,57 @@ $($(".btnCheck").click(function() {
     update_vars(currentclue);
     showform();
    
-  } else if($input == "LXQAM"){
+  } else if($input == "121"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
-    $(".outputBody").text("Nathan: 6-1, 7-1, 8-1.   Rachel: 6-5, 7-3, 8-1");
+    $(".outputBody").text("One of these books in Nathan's basement has a post-it note on your page: The Crucible, The Good Earth, Crazy Rich Asians, The Rosie Project, Homeport");
     currentclue = "clue 1";
     update_vars(currentclue);    
     showform();
 
 
-  } else if($input == "Woodstock"){
+  } else if($input == "29"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
-    $(".outputBody").text("Go to Nathan's house. Pit stop ahead!");
+    $(".outputBody").text("One of these books in Nathan's basement has a post-it note on your page: Flood Tide, Cow on the Tracks, Elder Care in Occupational Therapy, Pick of the Litter, The Son of Neptune");
     currentclue = "clue 2";
     update_vars(currentclue);    
     showform();
 
-  } else if($input == "woodstock"){
+  } else if($input == "39"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
-    $(".outputBody").text("Go to Nathan's house. Pit stop ahead!");
+    $(".outputBody").text("One of these books in Nathan's basement has a post-it note on your page: The Little Prince, The Mentor Book of Major American Poets, Webster's Thesaurus, For One More Day, The Jesus Storybook Bible");
     currentclue = "clue 2";
     update_vars(currentclue);    
     showform();
 
-  } else if($input == "ThisIsntFestive"){
+  } else if($input == "47"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
-    $(".outputBody").text("Come back to Nathan's House!");
+    $(".outputBody").text("One of these books in Nathan's basement has a post-it note on your page: Day and Night, A Ghost Tale for Christmastime, Ageless Body Timeless Mind, Out of my Mind, Fifty Shades of Grey");
     currentclue = "clue 3";
     update_vars(currentclue);    
     showform();
 
-  } else if($input == "ZXPZZ"){
+  } else if($input == "511"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
-    $(".outputBody").text("12 Days of Christmas: Find exactly 12 of one item (example: 12 cupcakes), take a picture of it, and send it to me with the number and what it is. Then do the same for 11. Go all the way down to 1 for your next clue.");
+    $(".outputBody").text("One of these books in Nathan's basement has a post-it note on your page: Breaking Dawn, On Being a Christian, Seven Pillars of Wisdom, The New Basics Cookbook, The Hour I First Believed");
     currentclue = "clue 4";
     update_vars(currentclue);  
     showform();
 
-  } else if($input == "H27Ui"){
+  } else if($input == "64"){
     $(".outputBody").css("color", "rgb(41, 41, 41)");
     $(".outputBox").css("text-align", "left");
     $(".outputHead").text("Clue:");
-    $(".outputBody").text("The final stretch! I'm located somewhere within the bounds of the Stop Sign Search area! Good luck!");
+    $(".outputBody").text("One of these books in Nathan's basement has a post-it note on your page: Pregnancy For Dummies, The Catcher in The Rye, Notre Dame Football The Golden Tradition, Don't Bet on It, The Giver");
     currentclue = "clue 5";
     update_vars(currentclue);    
     showform();
