@@ -154,6 +154,42 @@ $($(".btnCheck").click(function() {
     update_vars(currentclue);    
     showform();
 
+  } else if($input == "harry potter"){
+    $(".outputBody").css("color", "rgb(41, 41, 41)");
+    $(".outputBox").css("text-align", "left");
+    $(".outputHead").text("Clue:");
+    $(".outputBody").text("I close at the open. Find the finish line.");
+    currentclue = "clue 5";
+    update_vars(currentclue);    
+    showform();
+
+} else if($input == "Harry potter"){
+    $(".outputBody").css("color", "rgb(41, 41, 41)");
+    $(".outputBox").css("text-align", "left");
+    $(".outputHead").text("Clue:");
+    $(".outputBody").text("I close at the open. Find the finish line.");
+    currentclue = "clue 5";
+    update_vars(currentclue);    
+    showform();
+
+} else if($input == "Harry Potter"){
+    $(".outputBody").css("color", "rgb(41, 41, 41)");
+    $(".outputBox").css("text-align", "left");
+    $(".outputHead").text("Clue:");
+    $(".outputBody").text("I close at the open. Find the finish line.");
+    currentclue = "clue 5";
+    update_vars(currentclue);    
+    showform();
+
+} else if($input == "HARRY POTTER"){
+    $(".outputBody").css("color", "rgb(41, 41, 41)");
+    $(".outputBox").css("text-align", "left");
+    $(".outputHead").text("Clue:");
+    $(".outputBody").text("I close at the open. Find the finish line.");
+    currentclue = "clue 5";
+    update_vars(currentclue);    
+    showform();
+
   } else {
     $(".outputBody").css("color", "red");
     $(".outputHead").text("");
